@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 - You have installed [PostgreSQL](https://www.postgresql.org/download/)
 - You have a basic understanding of SQL and database management
 
-## Installation
+## Run Project
 
 1. Clone the repository:
    ```
